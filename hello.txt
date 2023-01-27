@@ -12,3 +12,8 @@ git config --global user.name "yogurt31"
 git config --global user.email "syjang070813@gmail.com"
 Publish Branch 누르지말기
 
+test.txt파일 만들고
+안녕하세요 자기이름을 쓴다음에
+해당 파일을 add, commit, push를 통해서
+깃허브에 올리고
+올린 리포지터리의 주도를 디코 채팅창에 올리세요
