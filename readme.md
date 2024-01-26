@@ -7,7 +7,7 @@
 
 ### 📖현재 배우고 있는 언어📖
 
-<br/>
+
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 
