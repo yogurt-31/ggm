@@ -53,13 +53,13 @@
 
 <br/>
 
-| <b>날짜 | <b>내용 |
-|:---|:---|
+2023.07.12  표창장(봉사 부문)
 <br/>
-| 2023.07.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 표창장(봉사 부문) |
-| 2023.07.17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 교과 우수상(컴퓨터 시스템 일반) |
-| 2023.09.27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 우수 학업 계획서 대회 우수상 |
-| 2024.01.09&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 표창장(근면 부문) |
+2023.07.17  교과 우수상(컴퓨터 시스템 일반)
+<br/>
+2023.09.27  우수 학업 계획서 대회 우수상
+<br/>
+2024.01.09  표창장(근면 부문)
 
 <br/>
 <br/>
